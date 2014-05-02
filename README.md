@@ -5,7 +5,7 @@ This repo will be updated to coincide with 5 blogs from ossmentor.com
 
 [x] BLOG 1 - Environment Setup - 
 
-Step 1. Download Fuse Service Works (FSW) at http://www.jboss.org/products/fsw.html  
+Step 1. Download Fuse Service Works (FSW) from http://www.jboss.org/products/fsw.html  
 Step 2. Install FSW according to the instructions at http://www.jboss.org/products/fsw.html  
 Step 3. Setup the Database  
   
@@ -72,6 +72,12 @@ In a separate terminal window, add a JMS queue:
 ```
 bin/jboss-cli.sh --connect --command="jms-queue add --queue-address=LoanIntake --entries=LoanIntake"  
 ```
+  
+Step 5. Download JBoss Developer Studio 7.1 from https://www.jboss.org/products/devstudio.html  
+Step 6. Install JBDS according to the instructions at https://www.jboss.org/products/devstudio.html  
+Step 7. Download JBoss Integration Stack 4.1.4 from http://tools.jboss.org/downloads/jbosstools_is/kepler/4.1.4.Final.html  
+Step 8. Install JBIS according to the instructions at http://tools.jboss.org/downloads/jbosstools_is/kepler/4.1.4.Final.html  
+  
 Now your environment is ready for the next blog.  
 
 [ ] BLOG 2 - Lab Introduction (5/5/2014) 
