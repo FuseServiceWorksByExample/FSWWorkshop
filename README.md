@@ -3,8 +3,6 @@ Fuse Service Works Workshop
 
 This repo will be updated to coincide with 5 blogs from ossmentor.com
 
-[x] BLOG 1 - Environment Setup - 
-
 Step 1. Download Fuse Service Works (FSW) from http://www.jboss.org/products/fsw.html  
 Step 2. Install FSW according to the instructions at http://www.jboss.org/products/fsw.html  
 Step 3. Setup the Database  
@@ -78,14 +76,6 @@ Step 6. Install JBDS according to the instructions at https://www.jboss.org/prod
 Step 7. Download JBoss Integration Stack 4.1.4 from http://tools.jboss.org/downloads/jbosstools_is/kepler/4.1.4.Final.html  
 Step 8. Install JBIS according to the instructions at http://tools.jboss.org/downloads/jbosstools_is/kepler/4.1.4.Final.html  
   
-Now your environment is ready for the next blog.  
+Now start with the intro lab!
 
-[ ] BLOG 2 - Lab Introduction (5/5/2014) 
-  
-[ ] BLOG 3 - Lab 1 Switchyard  (Code added; 5/12/2014)
-  
-[ ] BLOG 4 - Lab 2 Service Lifecycle Management (Code added; 5/19/2014)
-  
-[ ] BLOG 5 - Lab 3 Business Activity Monitoring  (Code added; 5/26/2014)
-  
 Version 1 Fuse Service Works V6  
